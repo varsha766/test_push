@@ -1,0 +1,22 @@
+{
+  "name": "test_push",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varsha607/test_push.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varsha607/test_push/issues"
+  },
+  "homepage": "https://github.com/varsha607/test_push#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
